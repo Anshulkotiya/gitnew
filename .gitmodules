@@ -1,3 +1,6 @@
 [submodule "myrepo"]
 	path = myrepo
 	url = https://github.com/Anshulkotiya/myrepo.git
+[submodule "CSS"]
+	path = CSS
+	url = https://github.com/Anshulkotiya/CSS.git
